@@ -1,0 +1,40 @@
+[0.010s] Invoking command in '/home/ddarji/autonomy_ws/src/237Asections/s3_basic/build/s3_basic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ddarji/autonomy_ws/src/237Asections/s3_basic/build/s3_basic -- -j24 -l24
+[0.042s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.159s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.166s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.247s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.247s] -- Configured cppcheck include dirs: 
+[0.247s] -- Configured cppcheck exclude dirs and/or files: 
+[0.249s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.253s] -- Added test 'lint_cmake' to check CMake code style
+[0.255s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.269s] -- Added test 'uncrustify' to check C / C++ code style
+[0.270s] -- Configured uncrustify additional arguments: 
+[0.272s] -- Added test 'xmllint' to check XML markup files
+[0.273s] -- Configuring done
+[0.276s] -- Generating done
+[0.277s] -- Build files have been written to: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/build/s3_basic
+[0.300s] Invoked command in '/home/ddarji/autonomy_ws/src/237Asections/s3_basic/build/s3_basic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ddarji/autonomy_ws/src/237Asections/s3_basic/build/s3_basic -- -j24 -l24
+[0.332s] Invoking command in '/home/ddarji/autonomy_ws/src/237Asections/s3_basic/build/s3_basic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ddarji/autonomy_ws/src/237Asections/s3_basic/build/s3_basic
+[0.342s] -- Install configuration: ""
+[0.343s] -- Execute custom install script
+[0.343s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/lib/s3_basic/constant_control.py
+[0.343s] -- Symlinking: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/lib/s3_basic/section3.launch.py
+[0.354s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/launch/section3.launch.py
+[0.355s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/rviz/section3.rviz
+[0.355s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/ament_index/resource_index/package_run_dependencies/s3_basic
+[0.355s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/ament_index/resource_index/parent_prefix_path/s3_basic
+[0.356s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/environment/ament_prefix_path.sh
+[0.356s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/environment/ament_prefix_path.dsv
+[0.356s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/environment/path.sh
+[0.356s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/environment/path.dsv
+[0.356s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/local_setup.bash
+[0.357s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/local_setup.sh
+[0.357s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/local_setup.zsh
+[0.357s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/local_setup.dsv
+[0.357s] -- Symlinking: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/package.dsv
+[0.368s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/ament_index/resource_index/packages/s3_basic
+[0.368s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/cmake/s3_basicConfig.cmake
+[0.369s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/cmake/s3_basicConfig-version.cmake
+[0.369s] -- Up-to-date symlink: /home/ddarji/autonomy_ws/src/237Asections/s3_basic/install/s3_basic/share/s3_basic/package.xml
+[0.371s] Invoked command in '/home/ddarji/autonomy_ws/src/237Asections/s3_basic/build/s3_basic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ddarji/autonomy_ws/src/237Asections/s3_basic/build/s3_basic

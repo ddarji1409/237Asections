@@ -38,7 +38,7 @@ class Heartbeat(Node):
 
         msg = Twist()
         msg.linear.x = 1.0
-        msg.angular.z = 1.0
+        msg.angular.z = 0.0
 
         # publish heartbeat counter
         self.hb_pub.publish(msg)
